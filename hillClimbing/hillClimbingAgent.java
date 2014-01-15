@@ -1,4 +1,4 @@
-package Lab03;
+package hillClimbing;
 import java.util.*;
 
 public class hillClimbingAgent {

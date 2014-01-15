@@ -1,5 +1,5 @@
-package Lab03;
-import Lab03.hillClimbingAgent;
+package hillClimbing;
+import hillClimbing.hillClimbingAgent;
 
 
 public class testHarness {
