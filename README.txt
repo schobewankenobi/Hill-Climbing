@@ -8,7 +8,7 @@ This program solves that problem using a Hill Climbing algorithm. What that mean
 The running time of this algorithm is fairly low in most cases, but with a huge board size the time can increase.
 
 This program takes a board size as input. It will start with a randomly generated board of queens and go from there to find a correct solution. 
-Please see blow for compiling and running instructions.
+Please see below for compiling and running instructions.
 
 
 Compiling instructions:
